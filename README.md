@@ -203,21 +203,19 @@ Any normal PC or Laptop can be used, best cabled directly to your Home Internet 
  - config.json
  - noalbs
 
-4.2.c - For NOALBS to respond to our Chat commands we need to give access to a Twitch Account. Once you logged in with your preferred Account in Twitch, click on this **[Link](https://twitchapps.com/tmi)**, then hit **Connect** and copy the **oauth:xxxxxxx** Code  
+4.2.c - For NOALBS to respond to our Chat commands we need to give access to a Twitch Account. Once you logged in with your preferred Account in Twitch, click on this **[Link](https://b3ck.com/twitch/oauth)**, then hit **Authorize with Twitch** and copy the whole Code from the website
 
-<img src="https://github.com/Naginreed/irl-cae-setup/assets/71943093/6eac3092-a208-438e-ac08-c68faf69151c" height="300">
-<img src="https://github.com/Naginreed/irl-cae-setup/assets/71943093/c52f6156-e52f-4ea7-a115-36d488648555" height="130">
+<img src="https://github.com/user-attachments/assets/d668b651-5f7e-45b3-9e1a-e26eb5174b19" height="200">
+<img src="https://github.com/user-attachments/assets/44ca3f4b-4ea8-47a8-868e-180fc5c62ba7" height="180">
 
 4.2.d - **Open** the **.env** File with a Text-Editor
- - Username of the used Account
- - replace the *oauth:YOUR_OAUTH_HERE* with your copied data
+ - replace everything with your copied data
 
 <img src="https://github.com/Naginreed/irl-cae-setup/assets/71943093/33dabd80-1a70-4ac1-8451-b942200767b0" height="40">
 
  - save and close the file
-
-4.2.e - Download the File and replace it with your **config.json**  
 [config.json](config.json)  
+
 4.2.f - **Open** the **config.json** File with a Text-Editor  
  - replace all 3x of *REPLACE_STREAMER_NAME* with your Twitch Account Name
 
