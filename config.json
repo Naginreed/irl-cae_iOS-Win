@@ -19,7 +19,7 @@
     "switchingScenes": {
       "normal": "Live",
       "low": "Low",
-      "offline": "Lost"
+      "offline": "Brb"
     },
     "streamServers": [
       {
