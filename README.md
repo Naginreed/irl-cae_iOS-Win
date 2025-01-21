@@ -151,7 +151,6 @@ Any normal PC or Laptop can be used, best cabled directly to your Home Internet 
  - Start
  - Live
  - Low
- - Lost
  - Brb
  - End
 
@@ -261,17 +260,11 @@ Following is an Explanation on what Scene is used for what and what People norma
 - When connection to the Phone is bad quality
 - simple Text "low bitrate"
   
-**Lost**
-- When the connection to Phone is lost completely this is shown
-- old VODs or Clips are often used (For Clips i recommend a Folder named Clips and adding a VLC Media Source *requires [VLC Media Player](https://www.videolan.org/vlc/)*)
-- simple Text "Lost connection..." on Top
-- simple Text "Be right back" on Bottom
-  
 **Brb**
-- Can be activated by writing !brb in Twitch-Chat
-- Similar to Disconnected
+- When the connection to Phone is lost completely or you end the livestream in IRLPro on purpose *(for privacy)*
+- old VODs or Clips are often used (For Clips i recommend a Folder named Clips and adding a VLC Media Source *requires [VLC Media Player](https://www.videolan.org/vlc/)*)
+- simple Text "Be right back"
 - Can be switched to when you go to Toilet or have private Conversation for a few Minutes
-- Can be just normal scene with no audio or BRB Scene
   
 **End**
 - Can be activated by writing !end in Twitch-Chat
@@ -287,11 +280,11 @@ Following is an Explanation on what Scene is used for what and what People norma
 6.b - **Start OBS & NOALBS** on your PC  
 6.c - **Go outside** to where you want to start your IRL-Stream  
 6.d - Enter `!start` in **Twitch-Chat** to start Stream to Twitch  
-6.e - **Go Live in Moblin** -> after a few seconds you are switched to **Live-Scene**  
-6.f - If you stop or loose connections on the Phone -> after a few seconds you are switched to **Lost-Scene**  
-6.g - As soon as connection from Phone to PC is restored -> after a few seconds you are switched back to **Live-Scene**  
-6.h - Switch to **BRB** and back manually with Chat commands `!brb` and `!live`  
-6.i - **Stop the Stream** automatically only if you raid someone or with Chat command `!stop`  
+6.e - **Go Live in IRL Pro** -> after a few seconds you are switched to **Live-Scene**  
+6.f - If you stop or loose connections on the Phone -> after a few seconds you are switched to **Brb-Scene**  
+6.g - As soon as connection from Phone to Internet is restored -> after a few seconds you are switched back to **Live-Scene**  
+6.h - End/Start the Livestream manually in IRLPro to switch between `!brb` and `!live`  
+6.i - **Stop the Stream** automatically if you raid someone or with Chat command `!stop`  
 
 > [!IMPORTANT]  
 > With every Scene Change in OBS you will see a text Message in Chat
