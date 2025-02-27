@@ -14,9 +14,9 @@ This Guide describes a **Cheap and Easy** Solution for
 > <img src="https://github.com/Naginreed/irl-cae-setup-ioS/assets/71943093/ddcfa25e-e806-48a7-9882-60fdc8794947">
 > </details>
 ---
-## Discord & Ko-Fi
-| <a href="https://discord.gg/XjYy8MySNg"><img src="https://github.com/Naginreed/irl-cae-setup-ioS/assets/71943093/c194f2f5-dff5-44ba-ab29-b4390752dc03" alt="Naginreed Discord" height="60"></a><br> [Discord Support](https://discord.gg/XjYy8MySNg) | <a href="https://ko-fi.com/naginreed"><img src="https://github.com/Naginreed/irl-cae-setup-ioS/assets/71943093/29446800-fcff-4170-9ee0-7fec375ddfd8" alt="Naginreed Ko-Fi" height="60"></a><br> [Wanna help me out?](https://ko-fi.com/naginreed)|
-|---|---|
+## Ko-Fi
+<a href="https://ko-fi.com/naginreed"><img src="https://github.com/Naginreed/irl-cae-setup-ioS/assets/71943093/29446800-fcff-4170-9ee0-7fec375ddfd8" alt="Naginreed Ko-Fi" height="60"></a><br> [Wanna help me out?](https://ko-fi.com/naginreed)
+
 ---
 ## Map
 
